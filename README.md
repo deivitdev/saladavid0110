@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saladavid0110
 - 👀 I’m interested in Mobile Develop
-- 🌱 I’m currently Dart 💕 Flutter 
+- 🌱 I’m currently learning Dart 💕 Flutter 
 - 💞️ I’m looking to collaborate in Mobile Development
 - 📫 How to reach me saladavid0110@gmail.com
 
