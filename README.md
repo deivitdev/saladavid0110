@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saladavid0110
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate in Game Development
+- 👀 I’m interested in Mobile Develop
+- 🌱 I’m currently Dart 💕 Flutter 
+- 💞️ I’m looking to collaborate in Mobile Development
 - 📫 How to reach me saladavid0110@gmail.com
 
 <!---
